@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/bensvoboda/Documents/CS415/MP2/Content/MP2Map.umap",
+				"/Users/bensvoboda/Documents/CS415/MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/bensvoboda/Documents/CS415/MP2/Content/Hour_of_Code/NewWidgetBlueprint.uasset"
+			]
+		}
+	]
+}
